@@ -1,0 +1,39 @@
+<html> 
+<head>
+    
+    <title>velopodium</title>
+</head>
+<body>
+    <header>
+        <h1>Магазин велосипедів</h1>
+        <nav>
+            <a href="#main">Головна</a>
+            <a href="#catalog">Каталог</a>
+            <a href="#license">Ліцензія на продаж</a>
+            <a href="#nomer">Замовити велосипед
+
+            </a>
+        </nav>
+    </header>
+
+    <main>
+        <h2 id="main">Наші велосипеди</h2>
+        <p>Ми продаємо велосипеди від різних виробників  також ми додаємо гарантію до всіх велосипедів .</p>
+        <p> ось декілька виробників santa, cruz, trek, specialized. Та багато інших </p>
+        
+        <p id="catalog">
+              <img width="480px" width="240px" src="https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_800,h_600,c_pad/Rail7DeoreXT_22_35036_B_Portrait"/> <br/>
+              <img width="480px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOhNUmTwJueCkkbUOeinye7HfdBtfCPw7uzg&s"/> <br/>
+              <img width="480px" width="240px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8cr1ZhwTufv5gk9cH0VELm8ceEQvode7-vfbluZz9Tw&s"/>
+              <img src=""/>
+        </p>
+        <p id="license">
+          <img width="480px" src="https://yurhub.com/files/images/products/2/2842v97f436ac.png"/>
+        </p>
+        
+    </main>
+    <footer id="nomer">
+     Ось номер для замовлення +380978283126    
+    </footer>
+</body>
+</html>
